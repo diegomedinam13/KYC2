@@ -1,0 +1,11 @@
+node_modules/
+dist/
+backend/.env
+backend/storage/
+backend/data/
+.DS_Store
+*.log
+frontend/certs/
+frontend/replay-out/
+.superpowers/
+backend/.env.vps
